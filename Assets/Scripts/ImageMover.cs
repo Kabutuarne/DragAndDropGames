@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ImageLooper : MonoBehaviour
+public class ImageMover : MonoBehaviour
 {
     public float speed = 200f;    
     public float resetX = -300f;      
