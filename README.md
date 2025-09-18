@@ -10,6 +10,7 @@ Unity 2D Drag And Drop games for men
 - [x] Create C# script for object fixation
 - [x] Add necessary sounds and audio sources
 - [ ] Create logic for winning
-- [ ] Create camera script for zoom-in/out and camera restrictions
-- [ ] Create animated main menu with 3 buttons
+- [x] Create camera script for zoom-in/out and camera restrictions
+- [x] Create animated main menu with 3 buttons
 - [x] Create C# script for scene changes
+- [ ] Create flying obstacles
